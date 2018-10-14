@@ -18,3 +18,13 @@ Name: [Sebastian Racedo](https://github.com/JoaoRacedo)</br>
 Place: Barranquilla, Atlantico, Colombia</br>
 Coding Experience: Java, Python, R, MatLab, and More.</br>
 Email: joao.racedo@gmail.com</br>
+
+Name: [Adegoke David](https://github.com/dhaveed)
+Place: Lagos , Nigeria
+Coding Experience: Java, Python, PHP, Javascript, HTML, CSS, SCSS, Ruby on Rails, Angular 2+, Laravel and SlimPHP. 
+Email: emmanuel.adeojo.ibk@gmail.com
+
+Name: [Sebastian Racedo](https://github.com/JoaoRacedo)</br>
+Place: Barranquilla, Atlantico, Colombia</br>
+Coding Experience: Java, Python, R, MatLab, and More.</br>
+Email: joao.racedo@gmail.com</br>
